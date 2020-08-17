@@ -1,0 +1,117 @@
+[
+{
+  "place": "most-northern",
+  "lat": 55.052222,
+  "lon": 8.421111
+},
+{
+  "place": "most-southern",
+  "lat": 47.270108,
+  "lon": 10.178319
+},
+{
+  "place": "most-western",
+  "lat": 51.041389,
+  "lon": 5.88
+},
+{
+  "place": "most-eastern",
+  "lat": 51.247,
+  "lon": 14.975
+},
+{
+  "place": "center",
+  "lat": 51.317222,
+  "lon": 10.191111
+},
+{
+  "place": "highest",
+  "lat": 47.42122,
+  "lon": 10.9863
+},
+{
+  "place": "lowest-natural",
+  "lat": 53.9625,
+  "lon": 9.333333
+},
+{
+  "place": "lowest-open",
+  "lat": 50.910833,
+  "lon": 6.502778
+},
+{
+  "place": "exclave",
+  "lat": 47.696944,
+  "lon": 8.690278
+},
+{
+  "place": "corner-b-d-n",
+  "lat": 50.754722,
+  "lon": 6.020833
+},
+{
+  "place": "corner-b-d-l",
+  "lat": 50.1403,
+  "lon": 6.133897
+},
+{
+  "place": "corner-d-f-s",
+  "lat": 47.593294,
+  "lon": 7.611741
+},
+{
+  "place": "corner-d-o-s",
+  "lat": 47.633333,
+  "lon": 9.366667
+},
+{
+  "place": "corner-d-o-t",
+  "lat": 48.771111,
+  "lon": 13.857222
+},
+{
+  "place": "corner-d-p-t",
+  "lat": 50.896111,
+  "lon": 14.807222
+},
+{
+  "place": "warmest",
+  "lat": 50.118056,
+  "lon": 8.663333
+},
+{
+  "place": "coldest",
+  "lat": 50.433333,
+  "lon": 12.583333
+},
+{
+  "place": "rainiest",
+  "lat": 47.466667,
+  "lon": 10.1
+},
+{
+  "place": "most-dry",
+  "lat": 50.974167,
+  "lon": 10.951111
+},
+{
+  "place": "sunniest",
+  "lat": 47.561111,
+  "lon": 7.791667
+},
+{
+  "place": "least-sunny",
+  "lat": 53.574858,
+  "lon": 7.780928
+},
+{
+  "place": "loneliest-place",
+  "lat": 53.7482,
+  "lon": 7.9677
+},
+{
+  "place": "furthest-apart-south",
+  "lat": 47.5894,
+  "lon": 12.9894
+}
+]
